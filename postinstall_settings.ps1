@@ -1035,7 +1035,7 @@ if ($confirmation -eq 'y') {
     czasMenu
 
     # Potwierdzenie restartu
-    $confirmation = Read-Host "Czy chcesz zrestartowaæ komputer? - konieczne dla niektórych zmian (Tak/Nie)"
+    $confirmation = Read-Host "Czy chcesz zrestartowaÄ‡ komputer? - konieczne dla niektÃ³rych zmian (Tak/Nie)"
 
     if ($confirmation -eq "Tak" -or $confirmation -eq "t") {
         # Uruchomienie ponownego uruchomienia komputera
@@ -1049,6 +1049,3 @@ if ($confirmation -eq 'y') {
 }
 
 
-
-
-#C:\Users\111\Desktop
