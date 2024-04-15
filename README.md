@@ -1,2 +1,2 @@
 # WindowsPostInstallScript
-Simple PowerShell script to change some keys in registry after Windows installation. 02.2024
+Prosty skrypt do zmiany niektórych kluczy w rejestrze Windowsa. 02.2024
